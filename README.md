@@ -7,12 +7,17 @@ A collection of TradingView widget integrations for Vue 3, providing financial c
 
 ![App Screenshot](./docs/img/interface1.png)
 
+![Charts Gallery](./docs/img/interface2.png)
+
+![Charts Gallery Code](./docs/img/interface3.png)
+
 ## 📋 Overview
 
 This project offers a suite of TradingView widgets wrapped as reusable Vue 3 components. It includes an interactive showcase where you can preview each widget, view its source code, and copy it for your own projects. 
 
 ## ✨ Features
 
+- 🖼️ **Charts gallery** - Page to visualize all charts at once
 - 🎨 **13 TradingView Widgets** - Complete collection of financial chart and data widgets
 - 🔍 **Interactive Preview** - Live component showcase with real-time data
 - 📝 **Source Code Viewer** - View and copy component code directly
