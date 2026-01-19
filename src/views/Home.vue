@@ -2,6 +2,9 @@
   <div class="flex content-center justify-center flex-wrap items-center p-5 gap-2">
     <p class="font-bold text-4xl md:text-4xl">TradingView Charts</p>
   </div>
+  <div class="flex justify-center">
+    <a href="/chart-gallery" class="w-fit px-4 py-2 rounded-lg font-semibold transition-all flex items-center justify-center gap-2 bg-amber-400 hover:bg-amber-500 text-black">Charts Gallery</a>
+  </div>
   <div class="flex flex-col md:flex-row justify-between items-center gap-3 p-5">
     <!-- Left container: List -->
     <div class="w-full lg:w-1/4 h-[60vh] overflow-y-auto">
